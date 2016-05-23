@@ -1,0 +1,30 @@
+.navbar-inverse .navbar-brand {
+	color: #669900;
+	font-size: 30px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	
+	color: #669900;
+}
+
+.navbar-inverse .navbar-nav > li.active > a {
+	
+	color: #669900;
+}
+
+/* Custom style */
+.menuCVOnline {
+	margin-top: 40px;
+	
+}
+
